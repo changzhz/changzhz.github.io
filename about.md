@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
+*   Email：xjzcz@139.com
 *   QQ/微信号：78375661/changzhz_id
 
 * * *
