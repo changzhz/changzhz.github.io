@@ -1,8 +1,8 @@
 # Site settings
-title: Hanson
+title: Changzheng
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Changzheng|Think Different"  
 baseurl: ""
 url: "http://changzhz.github.io"  
 
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : changzhzeng
   disqus :
-      short_name : hanson
+      short_name : changzheng
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
